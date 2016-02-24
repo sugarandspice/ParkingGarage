@@ -1,0 +1,9 @@
+{
+	"id": "com.carla.parkinggarage",
+	"version": "1.0.2",
+	"vendor": "Carla",
+	"type": "web",
+	"main": "index.html",
+	"title": "ParkingGarage",
+	"icon": "icon.png"
+}
